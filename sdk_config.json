@@ -1,0 +1,12 @@
+{
+    "ChainRpcAddr": "http://127.0.0.1:20336",
+    "WalletPath": "./wallet.dat",
+    "WalletPwd": "pwd",
+    "GasPrice": 500,
+    "GasLimit": 100000,
+    "PdpVersion": 1,
+    "P2pProtocol": "tcp",
+    "P2pListenAddr": "127.0.0.1:20556",
+    "P2pNetworkId": 0,
+    "BlockConfirm": 0
+}
