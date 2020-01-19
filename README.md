@@ -38,7 +38,7 @@
 
 ##### step2
 
-调用 RPC API 启动sdk，需确保sdk已初始化，只需一次
+调用 RPC API 启动sdk，需确保sdk已初始化，只需一次: `./ontfs-client service start`
 
 ```json
 APIURL: http://localhost:21336
