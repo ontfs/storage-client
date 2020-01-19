@@ -69,7 +69,7 @@ API URL: http://localhost:21336
 }
 ```
 | Parameter    | Description             |
-| ------------ | ----------------------- |
+| :----------: | ----------------------- |
 | ChainRpcAddr | RPC server URL          |
 | WalletPath   | `.dat` wallet file path |
 | WalletPwd    | Wallet password         |
